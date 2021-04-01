@@ -64,8 +64,6 @@ header li:hover{
   margin: 0 auto;
 }
 
-.career-body {
-}
 
 .career-body img{
   width: 200px;
@@ -81,11 +79,21 @@ header li:hover{
 
 .works img{
   width: 500px;
-  height: 250px
+  height: 250px;
+  margin-bottom: 10px;
 }
 
 .work {
   width: 80%;
   margin: 0 auto;
   text-align: center;
+}
+
+.skills {
+  text-align: center;
+}
+
+.profile {
+  width: 60%;
+  margin: 0 auto;
 }
